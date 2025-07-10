@@ -73,22 +73,6 @@ Despite current output limitations, our approach demonstrates **strong technical
    - Continuous-to-discrete conversion pipeline
    - Progressive stroke animation generation
 
-## 🎯 Sample Outputs (Current Implementation)
-
-### Generated Abstract Sketches
-![Current Cat Output](results/cat_generated_1.png) ![Current Bus Output](results/bus_generated_1.png) ![Current Rabbit Output](results/rabbit_generated_1.png)
-
-*Note: Current outputs show abstract stroke patterns rather than recognizable objects due to resource constraints*
-
-### Training Convergence (Validates Methodology)
-![Training Loss](results/cat_training_loss.png)
-
-*Smooth convergence proves the training pipeline works correctly*
-
-### Progressive Animation Pipeline
-![Generation Process](results/cat_generation.gif)
-
-*Demonstrates successful frame-by-frame stroke generation*
 
 ## 🛠️ Installation & Usage
 
